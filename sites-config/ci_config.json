@@ -3,9 +3,6 @@
     "assets": [
       {
         "root": "public"
-      },
-      {
-        "root": "test2"
       }
     ],
     "hbsTemplates": [
