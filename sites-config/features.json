@@ -1,7 +1,7 @@
 {
     "responseHeaders": [
         {
-            "pathPattern": ".*",
+            "pathPattern": "",
             "headerKey": "X-Test-Header",
             "headerValues": ["test"]
         }
