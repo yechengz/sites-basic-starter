@@ -1,0 +1,9 @@
+{
+    "responseHeaders": [
+        {
+            "pathPattern": "*",
+            "headerKey": "Cache-Control",
+            "headerValues": ["max-age=31536000"]
+        }
+    ]
+}
