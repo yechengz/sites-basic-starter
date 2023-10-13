@@ -2,8 +2,8 @@
     "responseHeaders": [
         {
             "pathPattern": ".*",
-            "headerKey": "Test-Header",
-            "headerValues": ["max-age=31536000"]
+            "headerKey": "X-Test-Header",
+            "headerValues": ["test"]
         }
     ]
 }
