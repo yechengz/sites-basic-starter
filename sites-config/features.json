@@ -2,7 +2,7 @@
     "responseHeaders": [
         {
             "pathPattern": ".*",
-            "headerKey": "Cache-Control",
+            "headerKey": "Test-Header",
             "headerValues": ["max-age=31536000"]
         }
     ]
