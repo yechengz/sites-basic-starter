@@ -2,7 +2,10 @@
   "artifactStructure": {
     "assets": [
       {
-        "root": "public",
+        "root": "public"
+      },
+      {
+        "root": "static",
         "pattern": "*"
       }
     ],
